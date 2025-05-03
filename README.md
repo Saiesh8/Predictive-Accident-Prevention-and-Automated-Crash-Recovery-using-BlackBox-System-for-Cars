@@ -1,6 +1,4 @@
-Here is a professional **GitHub `README.md`** template for your project titled **"Predictive Accident Prevention and Automated Crash Recovery using BlackBox System for Cars"**:
 
----
 
 ## 🚗 Predictive Accident Prevention and Automated Crash Recovery using BlackBox System for Cars
 
